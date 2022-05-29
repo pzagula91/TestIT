@@ -7,4 +7,5 @@
 - tests of application;
 - reporting bugs;
 - preparing test report.
+
 All with use of Jira.
